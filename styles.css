@@ -34,6 +34,7 @@ input {
     color: #FFFFFF;
     font-weight: 800;
     font-size: 60px;
+    text-align: center;
 }
 
 button {
@@ -43,6 +44,7 @@ button {
     font-family: 'Inter', sans-serif;
     color: #3D3D3D;
     cursor: pointer;
+    
 }
 
 .header {
